@@ -1,0 +1,4 @@
+# To compile a C++ file into an executable:
+
+
+g++ -O3 -o <executableName> <fileName>
